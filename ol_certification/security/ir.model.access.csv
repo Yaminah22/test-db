@@ -1,5 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_certificate_form,access.certificate_form,model_certificate_form,,1,1,1,1
-access_certificate_line,access.certificate_line,model_certificate_line,,1,1,1,1
-access_country_origin,access.country_origin,model_country_origin,,1,1,1,1
-access_description_form,access.description_form,model_description_form,,1,1,1,1
